@@ -1,0 +1,14 @@
+ID
+Title
+Summary
+Project
+Build Version
+Severity
+Priority
+Author
+Assignment
+Environment
+Steps to reproduse
+Actual result
+Expected result
+Attachments
